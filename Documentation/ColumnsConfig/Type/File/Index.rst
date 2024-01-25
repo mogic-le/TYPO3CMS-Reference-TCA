@@ -20,7 +20,7 @@ the record.
 
 .. seealso::
 
-   :ref:`<t3coreapi:fal-using-fal-examples-file-folder-get-references>`
+   :ref:`t3coreapi:fal-using-fal-examples-file-folder-get-references`
 
 ..  _columns-file-examples:
 ..  _tca_example_group_file_1:
